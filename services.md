@@ -12,3 +12,8 @@ Leah Levy of LGL event management provides creative and professional event plann
 - legislative conferences
 - fundraising galas
 - convention meetings
+
+<!-- code blurb for photo credit (inside the small tags) -->
+<small>
+<span>Photo by <a href="https://unsplash.com/@jsnbrsc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jason Briscoe</a> on <a href="https://unsplash.com/s/photos/miami-venue?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</small>

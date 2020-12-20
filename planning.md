@@ -31,3 +31,8 @@ There are many separate elements that must be considered and managed when hostin
 **Music—**if appropriate, select a live band or piped-in music.
 
 **Video**—if any kind of historical information or data is being presented as part of the program, secure this service from a qualified vendor.
+
+<!-- code blurb for photo credit (inside the small tags) -->
+<small>
+<span>Photo by <a href="https://unsplash.com/@jardenberg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joakim Jardenberg</a> on <a href="https://unsplash.com/s/photos/dining-hall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</small>

@@ -45,3 +45,8 @@ Event Manager for Awards Dinners<br>
 First and Second Leadership Awards Dinner<br>
 Mayflower Hotel. Washington, DC
 {: .list-unstyled}
+
+<!-- code blurb for photo credit (inside the small tags) -->
+<small>
+<span>Photo by <a href="https://unsplash.com/@gwg_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Grace O'Driscoll</a> on <a href="https://unsplash.com/s/photos/dining-hall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</small>

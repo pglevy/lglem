@@ -28,3 +28,8 @@ Shine bright on your way.
 
 Come and take pot-luck with me
 My hearth is warm, my friendship’s free.
+
+<!-- code blurb for photo credit (inside the small tags) -->
+<small>
+<span>Photo by <a href="https://unsplash.com/@keooran?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Keo Oran</a> on <a href="https://unsplash.com/s/photos/new-york-event-hall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</small>
