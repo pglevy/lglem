@@ -101,6 +101,10 @@ $nav-tabs-link-active-color:        $gray-900;
   .lgl-logo {
     height: 72px !important;
   }
+ }
+
+ // Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { 
   .nav-item {
     padding: 1.5rem 0;
   }
