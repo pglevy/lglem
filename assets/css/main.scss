@@ -79,3 +79,16 @@ $input-btn-padding-x-lg:      1.5rem;
 
 // Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 1.5rem;
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+  .image-cover {
+    min-height: 0 !important;
+    height: 12em;
+  }
+ }
