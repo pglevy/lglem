@@ -2,8 +2,8 @@
 layout: default
 title: Planning
 nav_parent: Services
-color: "228, 152, 115, .25"
-image: miami.jpg
+color: "172, 119, 76, .25"
+image: dining-hall.jpg
 ---
 When do you need an event manager? For almost any event you would like to host—from a small dinner party in your own home to a gala for a foundation or corporation.
 
