@@ -2,6 +2,8 @@
 layout: default
 title: About
 nav_parent: true
+color: "142, 172, 154, .25"
+image: windsor.jpg
 ---
 Event manager Leah Levy has lived in the Washington, DC area for more than thirty years. Her work in politics at The White House and on Capitol Hill, along with her involvement in the private sector as a VP for a 501(c)3 foundation, has given her an expertise in the many political and social events in this area.
 
