@@ -2,6 +2,8 @@ title: LGL Event Management
 
 description: Providing creative and professional event planning and management services to clients in Miami, New York City, and Washington, DC.
 
+baseurl: "/"
+
 sass:
   sass_dir: assets/bootstrap/scss
 
