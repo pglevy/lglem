@@ -97,6 +97,21 @@ $secondary:   $gray-700;
   margin-right: 2rem;
 }
 
+
+
+.background-home {
+  background-color: transparentize(#0BA146, .75);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-position: 0 -1000px;
+  background-blend-mode: multiply;
+} 
+
+.nav-item .active {
+  border-bottom: 2px solid #F7941D;
+}
+
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767.98px) { 
   .image-cover {
@@ -117,15 +132,10 @@ $secondary:   $gray-700;
   }
  }
 
-.background-home {
-  background-color: transparentize(#0BA146, .75);
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: repeat;
-  background-position: 0 -1000px;
-  background-blend-mode: multiply;
-} 
-
-.nav-item .active {
-  border-bottom: 2px solid #F7941D;
-}
+ // Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+  .background-home {
+    background-position: center;
+    background-repeat: no-repeat;
+  } 
+ }
